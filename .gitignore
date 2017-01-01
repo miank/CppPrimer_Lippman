@@ -77,3 +77,20 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.db
+*.ipch
+*.ilk
+*.log
+*.tlog
+*.idb
+*.vcxproj
+*.vcxproj.filters
+*stdafx.h
+*stdafx.cpp
+*targetver.h
+*.pdb
+*.opendb
+*.suo
+*.sln
+*ReadMe.txt
+
