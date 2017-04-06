@@ -56,6 +56,8 @@ int main()
 	//extern unsigned get_word_count(const string &file_name);
 	//vector<string> svec2(get_word_count("Chimera"));
 
+	// Container of containers
+	vector< vector<string> > lines; // vector of vector
 
 
     return 0;
