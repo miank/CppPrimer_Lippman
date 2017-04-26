@@ -1,0 +1,21 @@
+What is a default constructor ?
+
+Default constructor is the one which get called on creation of an object of a class.
+It is used to initialize the data members of a class to specific values.
+
+eg :
+
+class A
+{
+	public:
+		A()
+		{
+			// Default constructor
+		}
+}
+
+int main()
+{
+	A obj; // This calls the default constructor.
+	return 0;
+}
