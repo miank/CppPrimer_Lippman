@@ -1,4 +1,4 @@
-// Ex_1.2.cpp : Defines the entry point for the console application.
+// Ex_1.2.cpp : 
 // 
 
 #include "stdafx.h"
