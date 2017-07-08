@@ -95,3 +95,7 @@ $RECYCLE.BIN/
 *ReadMe.txt
 
 *.json
+*.sqlite
+*.db-shm
+*.db-wal
+*.user
